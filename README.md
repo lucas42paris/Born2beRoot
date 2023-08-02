@@ -19,7 +19,7 @@ __De nombreuses notions seront abordées pendant ce projet__ :
 The Born2beRoot project is an introduction to virtualization with a focus on system administration.  
 The goal of the project is to configure a Debian virtual machine with VirtualBox.
 
-__Many concepts will be discussed during this project__:
+__Many concepts will be covered during this project__:
 
 * Disk partitioning and LVM.
 * Configuration of a firewall (UFW).
